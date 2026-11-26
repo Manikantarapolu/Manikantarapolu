@@ -1,21 +1,52 @@
+<div align="center">
+
 # Manikanta Rapolu
 
-SOC Analyst (L1) candidate in Hyderabad. B.Tech in Cybersecurity. I practise alert triage, phishing analysis and incident investigation, and I write up my work here on GitHub.
+> Product-minded developer
 
-## Certificates
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=manikantarapolu&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199915686%3Fu%3D382efeb626fbb8965954c18877f50c53763a77b4%26v%3D4" alt="manikantarapolu hero visual" />
+</p>
 
-- Google Cybersecurity Professional Certificate
-- TryHackMe Pre Security path
-- TryHackMe SOC Level 1 path, completed 19 Nov 2026
+</div>
 
-My TryHackMe profile: [tryhackme.com/p/manikantarapolu9](https://tryhackme.com/p/manikantarapolu9)
+## The current loop
 
-## Projects
+> SOC Analyst (L1) | Microsoft Sentinel, KQL, phishing analysis | Google Cybersecurity Certificate | TryHackMe SOC Level 1
 
-- [Sentinel SOC lab](https://github.com/Manikantarapolu/Sentinel-soc-lab): three Microsoft Sentinel analytics rules, a tested attack chain, a tuning before and after, and four incident write-ups.
-- [Phishing email investigation](https://github.com/Manikantarapolu/phishing-email-investigation): three real phishing emails investigated from the headers to a verdict, with indicators and MITRE ATT&CK mapping.
-- [SOC analyst notes](https://github.com/Manikantarapolu/soc-analyst-notes): my notes on networking, Linux, Windows, security fundamentals and the TryHackMe SOC Level 1 path.
+- 📍 Based in **HYDERABAD**
+- 👥 **2** followers · **1** following
 
-## Tools I have used in these projects
+*Small, useful work over vague claims.*
 
-Microsoft Sentinel, KQL, Windows Security event logs, urlscan.io, VirusTotal and CyberChef.
+## Things I’m building
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Manikantarapolu/phishing-email-investigation">phishing-email-investigation</a></b></td><td>A hands-on SOC Analyst L1 project focused on phishing email investigation, email header analysis, SPF/DKIM/DMARC validation, suspicious URL and domain analysis, IOC extraction, threat intelligence research, and evidence-based incident reporting.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Manikantarapolu/Sentinel-soc-lab">Sentinel-soc-lab</a></b></td><td>Microsoft Sentinel lab: three analytics rules, a tested attack chain and four incident write-ups built from the logs<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Manikantarapolu/soc-analyst-notes">soc-analyst-notes</a></b></td><td>A cybersecurity learning repository documenting my journey towards becoming a SOC Analyst, covering networking, Linux, Windows, Python, security fundamentals, TryHackMe SOC Level 1 rooms, practical investigations, tools, commands, and structured revision notes.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=manikantarapolu&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199915686%3Fu%3D382efeb626fbb8965954c18877f50c53763a77b4%26v%3D4" alt="manikantarapolu stats visual" />
+</p>
+
+<p><code>198 contributions</code> · <code>1 day streak</code></p>
+
+## The shipping calendar
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manikantarapolu&theme=satan" alt="manikantarapolu contribution activity" />
+</p>
+
+## Work with me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=manikantarapolu&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199915686%3Fu%3D382efeb626fbb8965954c18877f50c53763a77b4%26v%3D4" alt="manikantarapolu social visual" />
+</p>
+
+<a href="https://github.com/manikantarapolu">GitHub</a>
+
+<p align="center"><sub>Manikanta Rapolu · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
